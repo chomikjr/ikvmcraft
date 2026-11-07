@@ -1,0 +1,18 @@
+{
+  "IKVM.Java.xr22eqh8gq.dll": {
+    "size": 86215680,
+    "parts": 5
+  },
+  "dotnet.native.vysx8gjvbt.wasm": {
+    "size": 86262263,
+    "parts": 5
+  },
+  "ikvmc_fastutil-8.2.1.r95r4wzelp.dll": {
+    "size": 55113216,
+    "parts": 3
+  },
+  "ikvmc_lwjgl3.uulft53gbv.dll": {
+    "size": 96828928,
+    "parts": 5
+  }
+}
